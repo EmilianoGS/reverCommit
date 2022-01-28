@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 modificado por tercera vez.
+=======
+modificacion 2. Segunda modificacion de este archivo.
+>>>>>>> parent of aafcd35 (Modificado por segunda vez)
